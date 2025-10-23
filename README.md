@@ -10,9 +10,9 @@
 
 # Protótipo
 
-![Pagina Inicial](assets\Inicial.png)
-![Pagina Inicial](assets\Sobre.png)
-![Pagina Inicial](assets\Contato.png)
+![Pagina Inicial](assets/Inicial.png)
+![Pagina Inicial](assets/Sobre.png)
+![Pagina Inicial](assets/Contato.png)
 
 
 # Motivação do projeto
