@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Contos de Festa
+## Web Mobile
+### - Matteo Domiciano Varnier -10390247
+### - Fernando Pegoraro Bilia – 10402097
+### - Rodrigo Barbosa – 10748173
+#### São Paulo, SP
 
-## Getting Started
+# Motivação do projeto
+No Conto de Festas, acreditamos que cada celebração merece ser única e inesquecível. A ideia de criar este espaço surgiu para facilitar a forma de apresentar nossos trabalhos e tornar a escolha dos clientes ainda mais prática. Assim, reunimos em um só lugar todos os nossos kits de festas completos, prontos para transformar momentos especiais em memórias duradouras. Nosso compromisso é tornar cada festa prática, divertida e visualmente incrível, cuidando de todos os detalhes para que você possa aproveitar o momento sem preocupações. Com o Conto de Festas, transformar sonhos em realidade nunca foi tão fácil!
 
-First, run the development server:
+# Caráter extensionistas
+O Conto de Festas nasce como uma iniciativa de extensão que conecta o conhecimento acadêmico (tecnologia, design e gestão) às necessidades reais do mercado local de festas. O projeto promove a aplicação prática do saber por meio do desenvolvimento de uma plataforma que organiza o portfólio, padroniza a apresentação de kits e facilita o atendimento, ampliando a visibilidade digital e a profissionalização do negócio. Com isso, o site gera impacto social ao fortalecer um empreendimento local, melhorar processos (catálogo, orçamento e comunicação) e tornar o serviço mais acessível aos clientes. Ao mesmo tempo, oferece aos estudantes um ambiente de aprendizagem situada, envolvendo análise de requisitos, usabilidade, métricas de atendimento e melhoria contínua, em diálogo direto com a comunidade.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Como foi feito o código
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Projeto inteiro foi feito em um editor de código (Visual Studio Code)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+2. Foi instalado o node.js
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+5. README.md para mostrar mais sobre o código
 
-## Learn More
+# Rodar o Código
 
-To learn more about Next.js, take a look at the following resources:
+1. Va para o editor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Abra o **Conto de festas**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. npm install
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Digite no terminal
+   - `run dev run`
