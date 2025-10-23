@@ -5,21 +5,21 @@ export default function Footer() {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.container}>
-        <div className={styles.content}>
-          <div className={styles.brand}>
+      <main className={styles.container}>
+        <section className={styles.content}>
+          <header className={styles.brand}>
             <h3 className={styles.title}>Contos de Festas</h3>
             <p className={styles.description}>Criando momentos inesquecíveis</p>
-          </div>
+          </header>
 
-          <div className={styles.contact}>
+          <address className={styles.contact}>
             <p className={styles.contactItem}>📧 contato@contosdefestas.com</p>
             <p className={styles.contactItem}>📱 (11) 99999-9999</p>
-          </div>
-        </div>
+          </address>
+        </section>
 
-        <div className={styles.bottom}></div>
-      </div>
+        <section className={styles.bottom}></section>
+      </main>
     </footer>
   );
 }
